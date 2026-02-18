@@ -13,10 +13,10 @@ namespace ConsoleApp16
         {
 
             #region Part 1
-            // Question 1
-            //Student student1  = new Student();
+            //Question 1
+            //Student student1 = new Student();
             //student1.Age = 10;
-            //Student student2 = student1 ;
+            //Student student2 = student1;
             //student2.Age = 50;
             //Console.WriteLine(student1.Age);
             //Console.WriteLine(student2.Age);
@@ -57,6 +57,19 @@ namespace ConsoleApp16
 
             #endregion
 
+            #region Part 2
+            //Console.Write("Enter Movie Name: ");
+            //string name = Console.ReadLine();
+            //Ticket myTicket = new Ticket(name);
+
+            //double myDiscount = 10.0;
+            //myTicket.ApplyDiscount(ref myDiscount); 
+
+            //myTicket.PrintTicket();
+
+            //double totalWithTax = myTicket.CalcTotal(15); 
+            //Console.WriteLine($"Total after 15% tax: {totalWithTax:C}");
+            #endregion
 
 
         }
