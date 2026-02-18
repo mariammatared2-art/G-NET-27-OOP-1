@@ -13,20 +13,20 @@ namespace ConsoleApp16
         {
 
             #region Part 1
-            Question 1
-            Student student1 = new Student();
-            student1.Age = 10;
-            Student student2 = student1;
-            student2.Age = 50;
-            Console.WriteLine(student1.Age);
-            Console.WriteLine(student2.Age);
+            //Question 1
+            //Student student1 = new Student();
+            //student1.Age = 10;
+            //Student student2 = student1;
+            //student2.Age = 50;
+            //Console.WriteLine(student1.Age);
+            //Console.WriteLine(student2.Age);
 
-            Point p1 = new Point();
-            Point y = p1;
-            p1.x = 5;
-            y.x = 10;
-            Console.WriteLine(p1.x);
-            Console.WriteLine(y.x);
+            //Point p1 = new Point();
+            //Point y = p1;
+            //p1.x = 5;
+            //y.x = 10;
+            //Console.WriteLine(p1.x);
+            //Console.WriteLine(y.x);
             //-------------------------------------------------------------------------------------------
             // Question 2
 
