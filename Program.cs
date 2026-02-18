@@ -57,6 +57,19 @@ namespace ConsoleApp16
 
             #endregion
 
+            #region Part 2
+            //Console.Write("Enter Movie Name: ");
+            //string name = Console.ReadLine();
+            //Ticket myTicket = new Ticket(name);
+
+            //double myDiscount = 10.0;
+            //myTicket.ApplyDiscount(ref myDiscount); 
+
+            //myTicket.PrintTicket();
+
+            //double totalWithTax = myTicket.CalcTotal(15); 
+            //Console.WriteLine($"Total after 15% tax: {totalWithTax:C}");
+            #endregion
 
 
         }
